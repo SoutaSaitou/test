@@ -1,0 +1,3 @@
+git checkout ブランチの移動
+git fetch 新しいブランチを認識させる
+git push
